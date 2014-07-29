@@ -17,7 +17,7 @@ theme by [Dale-Anthony](https://github.com/daleanthony/uno)
 
 Demo
 ------
-[http://blogils.herokuapp.com/](http://blogils.herokuapp.com/)
+[http://blogils.herokuapp.com/](http://zornica.tk/)
 
 Requirements
 -------------
